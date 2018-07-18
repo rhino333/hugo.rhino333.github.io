@@ -1,0 +1,4 @@
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/rhino333/rhino333.github.io.git
+	branch = master
