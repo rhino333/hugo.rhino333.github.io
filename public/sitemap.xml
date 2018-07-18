@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>rhino333.github.io/post/first/</loc>
+    <lastmod>2018-07-18T23:19:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>rhino333.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>rhino333.github.io/</loc>
+    <lastmod>2018-07-18T23:19:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>rhino333.github.io/post/</loc>
+    <lastmod>2018-07-18T23:19:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>rhino333.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
